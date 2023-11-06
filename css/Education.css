@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+.srgc_container {
+    display: grid;
+  grid-template-columns: 400px 1000px;
+  column-gap: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.institute_description{
+    color: white ;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.institute_description > h1,h2{
+    margin: 7px !important;
+    
+}
+.institute_description > p{
+   font-size: 17px;
+   word-spacing: 2px;
+   font-family: 'Roboto Slab', serif;
+    
+}
+
+.institute > img{
+    width: 400px;
+  object-fit: contain;
+}
