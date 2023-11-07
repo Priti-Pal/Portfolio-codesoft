@@ -28,11 +28,11 @@
 .programe_skill_container {
   display: grid;
   justify-content: center;
-  margin: auto;
+  margin:auto;
 }
 .skill_name {
   display: flex;
-  margin: auto;
+  margin: 5px;
   justify-content: center;
   color: white;
   /* text-decoration: underline; */
@@ -45,7 +45,7 @@
     color: white;
   justify-content: center;
   margin: auto;
-    margin-top: auto;
+    margin-top:auto;
   display: flex;
   font-size: 35px;
   margin-top: 1rem;

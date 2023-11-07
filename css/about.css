@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 
 .photo{
-    margin: 2rem 3rem auto;
+    margin: 2rem 1rem auto;
 }
 .container{
     display: flex !important;
@@ -14,8 +14,11 @@
     font-size: 16px;
     word-spacing: 3px;
     font-family: 'Roboto Slab', serif;
+    margin-left: 3.4rem;
 }
 .photo > img{
-    height: 450px;
-
+    margin-left: 30px;
+    border-radius: 20px;
+    height: 350px;
+    
 }
